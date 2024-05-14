@@ -11,7 +11,7 @@ public class Constants
     public const int White = -1;
     public const int Empty = 0;
     public const int Start = 1;//No cambiar con player1 humano. Hay un bug
-    public const string Player1 = "HUMAN";//AI o HUMAN
+    public const string Player1 = "AI";//AI o HUMAN
     public const string Player2 = "AI";//AI o HUMAN
     public const int PassTime = 2;
 
